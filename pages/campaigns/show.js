@@ -83,6 +83,6 @@ class CampaignShow extends Component {
         </Layout>
         );
     }
-}
+} 
 
 export default CampaignShow;
